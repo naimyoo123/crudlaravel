@@ -30,4 +30,4 @@ A complete CRUD (Create, Read, Update, Delete) application built with Laravel fo
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the MIT license.
+The Laravel framework is open-sourced software licensed under the MIT license. 
